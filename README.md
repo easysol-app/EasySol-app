@@ -7,7 +7,7 @@ Mixing Sol <br>
 
 Website >> [https://easysol.app/](https://www.easysol.app/) << Project creation is as simple as our name
 
-![image](/image/homepage_en.png)
+![image](/homepage_en.png)
 
 ## Token Manage
 **Token Creator**: Solana create token, Create solana token, Solana token maker
